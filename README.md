@@ -32,9 +32,11 @@
 
 # Pair and Connect Your WhatsApp
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a href="https://prabath-md-pair-web-v2-slk.koyeb.app/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-blue?style=for-the-badge&logo=render"></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # Deploy On Heroku 
 
