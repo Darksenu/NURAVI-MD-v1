@@ -10,9 +10,7 @@
     <img src="https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg'/"  width="700px">
 </a>
 
-
-
-<a><img src='https://i.imgur.com/dBaSKWF.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
