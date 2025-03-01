@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=E0F715&background=000000&center=true&vCenter=true&random=true&width=435&height=100&lines=%F0%9D%95%84%F0%9D%94%BC%F0%9D%95%8B%E2%84%8D%F0%9D%95%8C-%F0%9D%95%84%F0%9D%94%BB+%F0%9D%95%A71" /></a>
 
 ***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
 <a href="https://github.com/Darksenu/METHU-MD.git">
