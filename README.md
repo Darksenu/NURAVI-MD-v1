@@ -1,4 +1,14 @@
-# Didula MD V2
+❝ 📍 CYBER CTY LIFE NEXT GENARETION 📍 ❞
+***
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=E0F715&background=000000&center=true&vCenter=true&random=true&width=435&height=100&lines=%F0%9D%95%84%F0%9D%94%BC%F0%9D%95%8B%E2%84%8D%F0%9D%95%8C-%F0%9D%95%84%F0%9D%94%BB+%F0%9D%95%A71" /></a>
+
+***
+
+  <p align="center">
+<a href="https://github.com/Darksenu/METHU-MD.git">
+    <img src="https://i.ibb.co/SXvNd406/Picsart-25-02-28-13-46-38-821.jpg'/"  width="700px">
+</a>
 
 
 
