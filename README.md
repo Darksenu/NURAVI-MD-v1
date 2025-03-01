@@ -27,7 +27,7 @@
 
 
 
-
+<a><img src='https://i.imgur.com/dBaSKWF.gif'/></a>
 
 
 # Pair and Connect Your WhatsApp
